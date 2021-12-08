@@ -1,0 +1,11 @@
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.exe
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.deps.json
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.runtimeconfig.json
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.runtimeconfig.dev.json
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.dll
+D:\Обучение\Avtoservis\Avtoservis\bin\Debug\netcoreapp3.0\Avtoservis.pdb
+D:\Обучение\Avtoservis\Avtoservis\obj\Debug\netcoreapp3.0\Avtoservis.csprojAssemblyReference.cache
+D:\Обучение\Avtoservis\Avtoservis\obj\Debug\netcoreapp3.0\Avtoservis.AssemblyInfoInputs.cache
+D:\Обучение\Avtoservis\Avtoservis\obj\Debug\netcoreapp3.0\Avtoservis.AssemblyInfo.cs
+D:\Обучение\Avtoservis\Avtoservis\obj\Debug\netcoreapp3.0\Avtoservis.dll
+D:\Обучение\Avtoservis\Avtoservis\obj\Debug\netcoreapp3.0\Avtoservis.pdb
